@@ -3,3 +3,4 @@ This is a simple app to help increase speed, dexterity as a musician or anyone w
 Enjoy!!!
 # TO RUN PROJECT
 Fork this repository and launch in Chrome or Any Preferred Browser
+This project is just a simple demo of what a metronome should be
